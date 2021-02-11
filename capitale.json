@@ -1,0 +1,113 @@
+{
+    "capitales": [
+      {
+        "pays": "Allemagne",
+        "capitale": "Berlin"
+      },
+      {
+        "pays": "Autriche",
+        "capitale": "Vienne"
+      },
+      {
+        "pays": "Belgique",
+        "capitale": "Bruxelles"
+      },
+      {
+        "pays": "Bulgarie",
+        "capitale": "Sofia"
+      },
+      {
+        "pays": "Chypre",
+        "capitale": "Nicosie"
+      },
+      {
+        "pays": "Croatie",
+        "capitale": "Zagreb"
+      },
+      {
+        "pays": "Danemark",
+        "capitale": "Copenhague"
+      },
+      {
+        "pays": "Espagne",
+        "capitale": "Madrid"
+      },
+      {
+        "pays": "Estonie",
+        "capitale": "Tallinn"
+      },
+      {
+        "pays": "Finlande",
+        "capitale": "Helsinki"
+      },
+      {
+        "pays": "France",
+        "capitale": "Paris"
+      },
+      {
+        "pays": "Grèce",
+        "capitale": "Athènes"
+      },
+      {
+        "pays": "Hongrie",
+        "capitale": "Budapest"
+      },
+      {
+        "pays": "Irlande",
+        "capitale": "Dublin"
+      },
+      {
+        "pays": "Italie",
+        "capitale": "Rome"
+      },
+      {
+        "pays": "Lettonie",
+        "capitale": "Riga"
+      },
+      {
+        "pays": "Lituanie",
+        "capitale": "Vilnius"
+      },
+      {
+        "pays": "Luxembourg",
+        "capitale": "Luxembourg"
+      },
+      {
+        "pays": "Malte",
+        "capitale": "La Valette"
+      },
+      {
+        "pays": "Pays-Bas",
+        "capitale": "Amsterdam"
+      },
+      {
+        "pays": "Pologne",
+        "capitale": "Varsovie"
+      },
+      {
+        "pays": "Portugal",
+        "capitale": "Lisbonne"
+      },
+      {
+        "pays": "République tchèque",
+        "capitale": "Prague"
+      },
+      {
+        "pays": "Roumanie",
+        "capitale": "Bucarest"
+      },
+      {
+        "pays": "Slovaquie",
+        "capitale": "Bratislava"
+      },
+      {
+        "pays": "Slovénie",
+        "capitale": "Ljubljana"
+      },
+      {
+        "pays": "Suède",
+        "capitale": "Stockholm"
+      }
+    ]
+  }
+  
